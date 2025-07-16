@@ -1,12 +1,9 @@
-## Hi there 👋
+# Teknogain
 
-<!--
+We are a web development team that provides website-based software solutions for clients and businesses. If you're interested in working with us, feel free to contact us at [info@teknogain.com](mailto:info@teknogain.com).
 
-**Here are some ideas to get you started:**
+Learn more about our services at [teknogain.com](https://teknogain.com).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We also create open-source projects. Here are some of them:
+
+* [Gurun Kit (Vue + Tailwind CSS UI Kit)](https://gurunkit.teknogain.com)
